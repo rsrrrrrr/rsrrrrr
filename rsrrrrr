@@ -1,0 +1,206 @@
+Status
+Wallet Address15A3npQyd8Xcagm99tEdsGmGbp7hLjunGs
+Target BTC2.5000 BTC
+BTC Exploited2.1536 BTC
+BTC Verified0.0000 BTC
+Mining Pools Scanned142
+Mining Pools Exploited72
+Blockchain Injects0
+Current Operation
+Scanning for Exploit in Node
+Sending Exploit Test (3/6) to
+stratum+tcp://140.132.211.30:3333
+Waiting for Response......
+Exploit (3/6) FAILED (FAIL)
+Sending Exploit Test (4/6) to
+stratum+tcp://140.132.211.30:3333
+Waiting for Response...
+Exploit (4/6) FAILED (FAIL)
+Sending Exploit Test (5/6) to
+stratum+tcp://140.132.211.30:3333
+Waiting for Response.....
+Exploit (5/6) FAILED (FAIL)
+Sending Exploit Test (6/6) to
+stratum+tcp://140.132.211.30:3333
+Waiting for Response..
+Exploit (6/6) SUCCEEDED (OK)
+Build Exploiting for stratum+tcp://140.132.211.30:3333
+Patching wallet Address:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM
+Building Exploit
+73 85 b9 cb fe 16 67 bd 37 ad 19 a9 b1 68 57 c4 10 f5 e3 b0 5c 82 71 48 2a 47 8d cb 3a 81 c5 68 15 1c 78 60 1f b4
+Build Successful(OK)
+Connecting to c8b6:7568a204:5d6::c0
+Established Proxy Tunnel
+Uploading Exploit to 140.132.211.30:3333......
+Uploading Finished; Executing Exploit Now.
+Waiting for response....
+EXPLOIT SUCCESSFUL(OK)
+Data Response: {
+wallet:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM,
+status: 'PENDING',
+amount: 0.02740
+}
+Scanning stratum+tcp://159.88.207.150......
+Found No Ports Open
+Scanning stratum+tcp://100.87.99.9......
+Found No Ports Open
+Scanning stratum+tcp://51.99.135.160
+Found No Ports Open
+Scanning stratum+tcp://154.71.82.104
+found 154.71.82.104:3330(OK)
+starting scan now....
+Sending Exploit Test (1/6) to
+stratum+tcp://154.71.82.104:3330
+Waiting for Response.....
+Exploit (1/6) FAILED (FAIL)
+Sending Exploit Test (2/6) to
+stratum+tcp://154.71.82.104:3330
+Waiting for Response........
+Exploit (2/6) FAILED (FAIL)
+Sending Exploit Test (3/6) to
+stratum+tcp://154.71.82.104:3330
+Waiting for Response....
+Exploit (3/6) FAILED (FAIL)
+Sending Exploit Test (4/6) to
+stratum+tcp://154.71.82.104:3330
+Waiting for Response.......
+Exploit (4/6) FAILED (FAIL)
+Sending Exploit Test (5/6) to
+stratum+tcp://154.71.82.104:3330
+Waiting for Response.....
+Exploit (5/6) FAILED (FAIL)
+Sending Exploit Test (6/6) to
+stratum+tcp://154.71.82.104:3330
+Waiting for Response....
+Exploit (6/6) SUCCEEDED (OK)
+Build Exploiting for stratum+tcp://154.71.82.104:3330
+Patching wallet Address:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM
+Building Exploit
+d3 12 31 38 32 9b 70 9d 7e a7 54 85 4d 9a 62 6d 84 84 0f 31 b9 d8 13 c7 bc 6a 2e 9c 60 b6 6d 84 6c 72 0c e3 cd bf b8 a2
+Build Successful(OK)
+Connecting to abf9:7f9942a1:d66::92
+Established Proxy Tunnel
+Uploading Exploit to 154.71.82.104:3330..........
+Uploading Finished; Executing Exploit Now.
+Waiting for response...
+EXPLOIT SUCCESSFUL(OK)
+Data Response: {
+wallet:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM,
+status: 'PENDING',
+amount: 0.03727
+}
+Scanning stratum+tcp://171.24.29.120........
+found 171.24.29.120:10401(OK)
+starting scan now....
+Exploit (0/6) SUCCEEDED (OK)
+Build Exploiting for stratum+tcp://171.24.29.120:10401
+Patching wallet Address:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM
+Building Exploit
+5f 54 23 95 7e 1d a4 dc 36 a0 f6 68 c3 4a 9f 46 5c 42 a5 f5 a5 a3 46 8d 31 61 fc 81 a9 cf f6 bb ba 09 73 a2 4a 5c 4a 12
+Build Successful(OK)
+Connecting to 2db8:4b32587d:763::df
+Established Proxy Tunnel
+Uploading Exploit to 171.24.29.120:10401......
+Uploading Finished; Executing Exploit Now.
+Waiting for response....
+EXPLOIT SUCCESSFUL(OK)
+Data Response: {
+wallet:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM,
+status: 'PENDING',
+amount: 0.01668
+}
+Scanning stratum+tcp://129.112.188.50......
+found 129.112.188.50:10401(OK)
+starting scan now...
+Sending Exploit Test (1/6) to
+stratum+tcp://129.112.188.50:10401
+Waiting for Response.....
+Exploit (1/6) FAILED (FAIL)
+Sending Exploit Test (2/6) to
+stratum+tcp://129.112.188.50:10401
+Waiting for Response.....
+Exploit (2/6) FAILED (FAIL)
+Sending Exploit Test (3/6) to
+stratum+tcp://129.112.188.50:10401
+Waiting for Response....
+Exploit (3/6) FAILED (FAIL)
+Sending Exploit Test (4/6) to
+stratum+tcp://129.112.188.50:10401
+Waiting for Response....
+Exploit (4/6) FAILED (FAIL)
+Sending Exploit Test (5/6) to
+stratum+tcp://129.112.188.50:10401
+Waiting for Response.........
+Exploit (5/6) FAILED (FAIL)
+Sending Exploit Test (6/6) to
+stratum+tcp://129.112.188.50:10401
+Waiting for Response....
+Exploit (6/6) FAILED (FAIL)
+Scanning stratum+tcp://49.28.129.103....
+found 49.28.129.103:8484(OK)
+starting scan now..
+Sending Exploit Test (1/6) to
+stratum+tcp://49.28.129.103:8484
+Waiting for Response...
+Exploit (1/6) FAILED (FAIL)
+Sending Exploit Test (2/6) to
+stratum+tcp://49.28.129.103:8484
+Waiting for Response...
+Exploit (2/6) FAILED (FAIL)
+Sending Exploit Test (3/6) to
+stratum+tcp://49.28.129.103:8484
+Waiting for Response...
+Exploit (3/6) FAILED (FAIL)
+Sending Exploit Test (4/6) to
+stratum+tcp://49.28.129.103:8484
+Waiting for Response....
+Exploit (4/6) FAILED (FAIL)
+Sending Exploit Test (5/6) to
+stratum+tcp://49.28.129.103:8484
+Waiting for Response....
+Exploit (5/6) SUCCEEDED (OK)
+Build Exploiting for stratum+tcp://49.28.129.103:8484
+Patching wallet Address:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM
+Building Exploit
+97 d5 d6 be d8 58 8a 58 7c 9a b5 34 6d 06 3e e1 87 07 1b a4 39 e2 5c 33 82 f8 30 c6 59 7b 22 c9 e0 cb 8b 8d da 99 4c b3 c1 6b d2 a3
+Build Successful(OK)
+Connecting to 1b9e:eaa6669f:3e6::87
+Established Proxy Tunnel
+Uploading Exploit to 49.28.129.103:8484.........
+Uploading Finished; Executing Exploit Now.
+Waiting for response.......
+EXPLOIT SUCCESSFUL(OK)
+Data Response: {
+wallet:13uk3K97qcGZTZBjNdboZoQGsNbTysNuWM,
+status: 'PENDING',
+amount: 0.02424
+}
+Scanning stratum+tcp://91.116.100.76......
+Found No Ports Open
+Scanning stratum+tcp://116.108.124.70...
+Found No Ports Open
+Scanning stratum+tcp://216.26.210.102....
+Found No Ports Open
+Scanning stratum+tcp://239.106.113.160......
+found 239.106.113.160:20303(OK)
+starting scan now....
+Sending Exploit Test (1/6) to
+stratum+tcp://239.106.113.160:20303
+Waiting for Response
+Bitcoin Exploit Kit
+Enter Bitcoin Wallet Address:
+Bitcoin Address
+Invalid Address Example Address | 1DDNK52pWKBohBtgBJAyNQVMPQeyfbSYBV
+Keep in Mind That...
+The amount of BTC targeted drastically effects the time to compliation.
+Closing this window before the process is finished will reset any progress.
+How many bitcoins would you like to get?
+Remember the more bitcoins the longer it will take!
+2.50 BTC
+Start Exploit
+Users Online 486Version 0.21.3
+No Valid Bitcoin Wallet Entered
+
+—
+You are receiving this because you are subscribed to this thread.
+Reply to this email directly, view it on GitHub, or unsubscribe.
